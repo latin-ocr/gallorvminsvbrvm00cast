@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gallorvminsvbrvm00cast/gallorvminsvbrvm00cast_0083.png"; bbox 0 0 2164 2948; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3 197 1926 2667">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2 197 1926 1793">
+     <span class='ocr_line' id='line_1_1' title="bbox 411 197 1926 469; baseline 0.004 -64"><span class='ocrx_word' id='word_1_1' title='bbox 411 264 1541 469; x_wconf 76' lang='lat' dir='ltr'><strong>SACRVM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1732 197 1926 269; x_wconf 68' lang='lat'>&#39;⁸⁹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 451 531 1490 674; baseline -0.005 -2.112"><span class='ocrx_word' id='word_1_3' title='bbox 451 531 1490 674; x_wconf 81' lang='lat' dir='ltr'>NVMINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 242 739 1730 935; baseline 0.003 -6.167"><span class='ocrx_word' id='word_1_4' title='bbox 242 739 1730 935; x_wconf 79' lang='lat' dir='ltr'>APOLLINIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 249 1049 1743 1197; baseline -0.001 -0.142"><span class='ocrx_word' id='word_1_5' title='bbox 249 1049 1743 1197; x_wconf 72' lang='lat' dir='ltr'>LNAEVIVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 4 1313 1752 1523; baseline 0.003 -69"><span class='ocrx_word' id='word_1_6' title='bbox 4 1520 5 1523; x_wconf 4' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 169 1313 1752 1461; x_wconf 65' lang='lat' dir='ltr'>,SECVNDINVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 3 1578 1238 1793; baseline -0.003 -74"><span class='ocrx_word' id='word_1_8' title='bbox 3 1785 7 1793; x_wconf 4' lang='grc' dir='ltr'><em>ὑ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 494 1618 497 1621; x_wconf 90' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 718 1578 1238 1719; x_wconf 82' lang='lat' dir='ltr'>PRO</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 1823 1696 1984">
+     <span class='ocr_line' id='line_1_7' title="bbox 4 1823 1696 1984; baseline 0 -6"><span class='ocrx_word' id='word_1_11' title='bbox 4 1850 6 1857; x_wconf 49' lang='lat'><em>¹</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 244 1823 1696 1984; x_wconf 82' lang='lat' dir='ltr'>SALVTESVO</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 5 2048 1917 2667">
+     <span class='ocr_line' id='line_1_8' title="bbox 5 2048 1917 2243; baseline 0.004 -8"><span class='ocrx_word' id='word_1_13' title='bbox 5 2230 7 2235; x_wconf 81' lang='grc'>,</span> <span class='ocrx_word' id='word_1_14' title='bbox 677 2105 1267 2243; x_wconf 81' lang='lat' dir='ltr'>RVM</span> <span class='ocrx_word' id='word_1_15' title='bbox 1916 2048 1917 2051; x_wconf 7' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 5 2310 1451 2518; baseline -0.001 -64"><span class='ocrx_word' id='word_1_16' title='bbox 5 2358 270 2518; x_wconf 4' lang='grc' dir='ltr'>ι·</span> <span class='ocrx_word' id='word_1_17' title='bbox 498 2310 1451 2457; x_wconf 77' lang='lat' dir='ltr'>TVMVL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 634 2523 1337 2667; baseline -0.004 0"><span class='ocrx_word' id='word_1_18' title='bbox 634 2523 1337 2667; x_wconf 78' lang='lat' dir='ltr'>VSLM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
